@@ -1,0 +1,5 @@
+# Made in Blockbench 4.11.1
+newmtl crystal
+map_Kd aberration:block/crystals/curious/base
+newmtl tendrils
+map_Kd aberration:block/crystals/curious/tendrils
